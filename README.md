@@ -1,3 +1,6 @@
+Tienda de muestra creada con react para ser usada como prueba para back-end con nodeJs
+[]: # Language: markdown
+[]: # Path: README.md
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
